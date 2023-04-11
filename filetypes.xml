@@ -1,0 +1,19 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="SampleApp.kt" type="AUTO_DETECTED" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="bg_faq_itemxml" type="PLAIN_TEXT" />
+      <mapping pattern="eventos_object" type="PLAIN_TEXT" />
+      <mapping ext="processor" type="PLAIN_TEXT" />
+      <mapping ext="scenario" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <mapping pattern="DisableLiveAndUnratedContentWithActionGrant" type="GraphQL" />
+      <mapping pattern="EnableLiveAndUnratedContentWithActionGrant" type="GraphQL" />
+    </extensionMap>
+  </component>
+</application>

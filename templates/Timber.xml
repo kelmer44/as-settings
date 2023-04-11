@@ -1,0 +1,36 @@
+<templateSet group="Timber">
+  <template name="timi" value="Timber.i(&quot;$METHOD_NAME$: $content$&quot;);" description="Timber info" toReformat="false" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="timd" value="Timber.d(&quot;$METHOD_NAME$: $content$&quot;);" description="Timber debug" toReformat="false" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="timw" value="Timber.w(&quot;$METHOD_NAME$: $content$&quot;);" description="Timber warning" toReformat="false" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="time" value="Timber.i($content$,&quot;&quot;);" description="Timber error" toReformat="false" toShortenFQNames="true">
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="timv" value="Timber.i(&quot;$METHOD_NAME$: $content$&quot;);" description="Timber Verbose" toReformat="false" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

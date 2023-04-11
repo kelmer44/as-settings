@@ -1,0 +1,10 @@
+<application>
+  <component name="DependencyUISettings">
+    <option name="SCOPE_TYPE" value="file" />
+  </component>
+  <component name="UISettings">
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="33" />
+    <option name="MAX_LOOKUP_WIDTH2" value="999" />
+    <option name="SHOW_INPLACE_COMMENTS" value="true" />
+  </component>
+</application>

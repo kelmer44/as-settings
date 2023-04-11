@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="testMethod" value="@Test&#10;fun `$METHOD_NAME$`() {&#10;    // Arrange&#10;    $END$&#10;&#10;    // Act&#10;&#10;&#10;    // Assert&#10;&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>

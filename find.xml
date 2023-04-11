@@ -1,0 +1,37 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*View*.kt</mask>
+    <mask>*.graphql</mask>
+    <mask>*.Test</mask>
+    <mask>theme*</mask>
+    <mask>*.md</mask>
+    <mask>*Channel*</mask>
+    <mask>*.json</mask>
+    <mask>build.gradle</mask>
+    <mask>*ActivityModule.java</mask>
+    <mask>error</mask>
+    <mask>*.ext</mask>
+    <mask>*gradle</mask>
+    <mask>*ViewModel*</mask>
+    <mask>*.Fragment*</mask>
+    <mask>*Fragment*</mask>
+    <mask>*Test*</mask>
+    <mask>!*ViewModel*,!*Fragment*,!*Activity*,!*Observer*,!*Presenter*,*.kt</mask>
+    <mask>*Observer.kt</mask>
+    <mask>*xml</mask>
+    <mask>*kt</mask>
+    <mask>!*Test*</mask>
+    <mask>*Module.java</mask>
+    <mask>*.properties</mask>
+    <mask>*Presenter.kt</mask>
+    <mask>!*.puml</mask>
+    <mask>*.gradle</mask>
+    <mask>*.kt</mask>
+    <mask>*.java</mask>
+    <mask>*.toml</mask>
+    <mask>*.xml</mask>
+  </component>
+</application>
