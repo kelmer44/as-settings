@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Hello" />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
+        <option value="package:mine level:error lateinit" />
         <option value="package:mine level:warn " />
         <option value="package:mine Hello" />
         <option value="package:mine" />
         <option value="package:mine DL DIALOG" />
         <option value="package:mine level:warn Deleted" />
-        <option value="package:mine level:error " />
         <option value="package:mine CACHETEST" />
         <option value="package:mine level:warn cache" />
         <option value="package:mine level:error" />
@@ -22,7 +23,6 @@
         <option value="package:mine DL Crash" />
         <option value="package:mine DL Crash - " />
         <option value="package:mine DL Dialog" />
-        <option value="Partner D+" />
       </list>
     </option>
   </component>
