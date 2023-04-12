@@ -1,0 +1,40 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="19211FDEE0073E" />
+          </Key>
+        </key>
+        <name value="Google Pixel 6 Pro" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="18311HFDD2YJ22" />
+          </Key>
+        </key>
+        <type value="TV" />
+        <name value="Google Chromecast" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="9885e645504a504e4c" />
+          </Key>
+        </key>
+        <name value="samsung SM-G930F" />
+        <target value="Android 8.0" />
+        <api value="androidversion:26:null:null:true" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
