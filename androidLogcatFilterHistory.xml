@@ -5,6 +5,7 @@
       <list>
         <option value="package:mine level:error " />
         <option value="package:mine level:error lateinit" />
+        <option value="package:mine level:error lateini" />
         <option value="package:mine level:warn " />
         <option value="package:mine Hello" />
         <option value="package:mine" />
@@ -22,7 +23,6 @@
         <option value="package:mine Hi " />
         <option value="package:mine DL Crash" />
         <option value="package:mine DL Crash - " />
-        <option value="package:mine DL Dialog" />
       </list>
     </option>
   </component>
