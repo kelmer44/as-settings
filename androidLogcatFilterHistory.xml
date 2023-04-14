@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Parcel poll" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine Parcel poll" />
         <option value="package:mine " />
+        <option value="package:mine Parcel poll" />
         <option value="package:mine PIP - " />
         <option value="package:mine level:error " />
         <option value="package:mine level:error lateinit" />
