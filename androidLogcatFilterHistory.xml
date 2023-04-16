@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine Permission" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Permission" />
         <option value="package:mine " />
         <option value="package:mine Parcel poll" />
         <option value="package:mine PIP - " />
@@ -21,7 +23,6 @@
         <option value="package:mine tag:hawkeye " />
         <option value="package:mine glimpse" />
         <option value="package:mine Hi pip views" />
-        <option value="package:mine Hi " />
       </list>
     </option>
   </component>
