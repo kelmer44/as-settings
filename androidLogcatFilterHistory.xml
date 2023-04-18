@@ -1,7 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine PIP -" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine PIP -" />
+        <option value="package:mine" />
+        <option value="package:mine P" />
         <option value="package:mine " />
         <option value="package:mine Permission" />
         <option value="package:mine Parcel poll" />
@@ -11,7 +15,6 @@
         <option value="package:mine level:error lateini" />
         <option value="package:mine level:warn " />
         <option value="package:mine Hello" />
-        <option value="package:mine" />
         <option value="package:mine DL DIALOG" />
         <option value="package:mine level:warn Deleted" />
         <option value="package:mine CACHETEST" />
@@ -20,8 +23,6 @@
         <option value="package:mine Detail" />
         <option value="package:mine Called ref" />
         <option value="package:mine tag:hawkeye " />
-        <option value="package:mine glimpse" />
-        <option value="package:mine Hi pip views" />
       </list>
     </option>
   </component>
