@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="G0W1AT029434F0L5" />
+          </Key>
+        </key>
+        <name value="Amazon KFONWI" />
+        <target value="Android 9.0" />
+        <api value="androidversion:28:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="19211FDEE0073E" />
           </Key>
         </key>
