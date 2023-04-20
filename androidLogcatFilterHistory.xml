@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine PIP -" />
         <option value="package:mine " />
+        <option value="level:error package:mine " />
+        <option value="package:mine PIP -" />
         <option value="package:mine" />
         <option value="package:mine P" />
         <option value="package:mine Permission" />
@@ -22,7 +22,6 @@
         <option value="package:mine level:error" />
         <option value="package:mine Detail" />
         <option value="package:mine Called ref" />
-        <option value="package:mine tag:hawkeye " />
       </list>
     </option>
   </component>
