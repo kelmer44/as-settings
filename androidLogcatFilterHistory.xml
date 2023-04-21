@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:UpNext " />
+    <option name="mostRecentlyUsed" value="package:mine Pip" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Pip" />
         <option value="package:mine tag:UpNext " />
         <option value="package:mine UpNextState:" />
         <option value="package:mine UpNextState" />
@@ -22,7 +23,6 @@
         <option value="package:mine Hello" />
         <option value="package:mine DL DIALOG" />
         <option value="package:mine level:warn Deleted" />
-        <option value="package:mine CACHETEST" />
       </list>
     </option>
   </component>
