@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
+        <option value="package:mine Pip" />
         <option value="package:mine " />
         <option value="package:mine THEME" />
         <option value="package:mine" />
@@ -9,9 +12,7 @@
         <option value="package:mine New Sta" />
         <option value="package:mine Pip =" />
         <option value="package:mine pip" />
-        <option value="package:mine level:error " />
         <option value="package:mine pip =" />
-        <option value="package:mine Pip" />
         <option value="package:mine tag:UpNext " />
         <option value="package:mine UpNextState:" />
         <option value="package:mine UpNextState" />
