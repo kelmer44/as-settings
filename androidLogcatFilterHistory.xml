@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine THEME" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine THEME" />
         <option value="package:mine " />
+        <option value="package:mine THEME" />
         <option value="package:mine" />
         <option value="package:mine New State" />
         <option value="package:mine New Sta" />
