@@ -29,9 +29,9 @@
     <mask>*Presenter.kt</mask>
     <mask>!*.puml</mask>
     <mask>*.kt</mask>
-    <mask>*.java</mask>
     <mask>*.toml</mask>
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
