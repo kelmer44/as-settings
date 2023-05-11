@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error RECEIVER " />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
+        <option value="package:mine" />
         <option value="package:mine level:error RECEIVER " />
         <option value="package:mine  RECEIVER -" />
         <option value="package:mine  RECEIVER" />
@@ -13,10 +15,8 @@
         <option value="package:mine Setting up" />
         <option value="package:mine " />
         <option value="package:mine Got load" />
-        <option value="package:mine level:error " />
         <option value="package:mine PIP -" />
         <option value="package:mine elevation=" />
-        <option value="package:mine" />
         <option value="package:mine PIP" />
         <option value="PIP - " />
         <option value="PIP - lifecycleResume = pipMode" />
