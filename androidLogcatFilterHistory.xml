@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  RECEIVER -" />
+    <option name="mostRecentlyUsed" value="package:mine level:error RECEIVER " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error RECEIVER " />
         <option value="package:mine  RECEIVER -" />
         <option value="package:mine  RECEIVER" />
         <option value="package:mine  " />
@@ -22,7 +23,6 @@
         <option value="PIP - lif" />
         <option value="package:mine PIP - Playback" />
         <option value="package:mine level:error Perform" />
-        <option value="package:mine level:ERROR " />
       </list>
     </option>
   </component>
