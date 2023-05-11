@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine level:error " />
+        <option value="package:mine REceiver -" />
         <option value="package:mine" />
         <option value="package:mine level:error RECEIVER " />
         <option value="package:mine  RECEIVER -" />
@@ -22,7 +23,6 @@
         <option value="PIP - lifecycleResume = pipMode" />
         <option value="PIP - lif" />
         <option value="package:mine PIP - Playback" />
-        <option value="package:mine level:error Perform" />
       </list>
     </option>
   </component>
