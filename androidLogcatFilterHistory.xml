@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Initialized " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine Initialized " />
         <option value="package:mine Adding " />
-        <option value="package:mine " />
         <option value="package:mine RECEIVER - " />
         <option value="package:mine RECEIVER" />
         <option value="package:mine level:error" />
