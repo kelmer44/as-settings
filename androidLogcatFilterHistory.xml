@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Adding " />
+    <option name="mostRecentlyUsed" value="package:mine Initialized " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Initialized " />
         <option value="package:mine Adding " />
         <option value="package:mine " />
         <option value="package:mine RECEIVER - " />
@@ -22,7 +23,6 @@
         <option value="package:mine Setting up" />
         <option value="package:mine Got load" />
         <option value="package:mine PIP -" />
-        <option value="package:mine elevation=" />
       </list>
     </option>
   </component>
