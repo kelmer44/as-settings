@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:net.kelmer.correostracker PREMIUM - " />
+    <option name="mostRecentlyUsed" value="package:net.kelmer.correostracker" />
     <option name="nonFavorites">
       <list>
+        <option value="package:net.kelmer.correostracker" />
         <option value="package:net.kelmer.correostracker PREMIUM - " />
         <option value="package:net.kelmer.correostracker PREMIUM - New billing up" />
         <option value="package:net.kelmer.correostracker premium" />
         <option value="package:net.kelmer.correostracker premi" />
-        <option value="package:net.kelmer.correostracker" />
         <option value="package:net.kelmer.correostracker level:error " />
         <option value="package:net.kelmer.correostracker levl" />
         <option value="package:net.kelmer.correostracker " />
